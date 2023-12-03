@@ -92,3 +92,5 @@ fun main _ =
         print ("Part 1: " ^ (Int.toString (part1())) ^ "\n");
         print ("Part 2: " ^ (Int.toString (part2())) ^ "\n")
     end;
+
+main ();
